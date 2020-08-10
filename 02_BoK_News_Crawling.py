@@ -4,7 +4,6 @@ from datetime import datetime
 import scrapy, re
 import pandas as pd
 
-
 class CrawlNewsSpider(scrapy.Spider):
     name = 'crawl_news'
     allowed_domains = ['naver.com']
