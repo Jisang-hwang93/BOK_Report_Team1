@@ -27,13 +27,13 @@
 
 >1. **NLP 분석을 위해 경제 특화된 eKoNLPy 이용**
 >
->   관련 자료 : https://github.com/entelecheia/eKoNLPy
+>* 관련 자료 : https://github.com/entelecheia/eKoNLPy
 >
 >2. **N-Gramize**
 >
->   최대 5-Gram까지의 단어로 구성
+>* 최대 5-Gram까지의 단어로 구성
 >
->   전 처리 후 : 단어 2,712개 | N-Gram 73,824개 사용
+>* 전 처리 후 : 단어 2,712개 | N-Gram 73,824개 사용
 
 
 
