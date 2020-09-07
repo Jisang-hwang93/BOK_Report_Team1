@@ -38,6 +38,7 @@
 #### 극성 분류(Data Analysis)
 
 > `Naive Bayes Classifier` 이용
+
 > $$
 > polarity \ score = {p(feature|hawkish) \over p(feature|dovish)}
 > $$
