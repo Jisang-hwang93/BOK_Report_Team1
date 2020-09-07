@@ -9,6 +9,7 @@
 #### 활용 패키지
 
 > `eKoNLPy`
+> `Scrapy`
 
 
 
